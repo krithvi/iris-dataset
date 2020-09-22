@@ -1,5 +1,5 @@
-KNOW I PROJECT:
-IRIS DATASET:<img src='https://img.icons8.com/plasticine/2x/flower-doodle.png' width="50" height="60" ></img><br>
+<h3>KNOW I PROJECT:</h3><br>
+IRIS DATASET:<img src='https://img.icons8.com/plasticine/2x/flower-doodle.png' width="40" height="40" ></img><br>
 
 Team name:  Incredibles<br>
 Team Members:
