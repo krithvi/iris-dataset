@@ -1,8 +1,8 @@
-<h3>KNOW I PROJECT:</h3><br>
-IRIS DATASET:<img src='https://img.icons8.com/plasticine/2x/flower-doodle.png' width="40" height="40" ></img><br>
+<h3>KNOW I PROJECT:</h3>
+<h2>IRIS DATASET:<img src='https://img.icons8.com/plasticine/2x/flower-doodle.png' width="40" height="40" ></h2></img><br>
 
-Team name:  Incredibles<br>
-Team Members:
+<b>Team name: </b> Incredibles<br>
+<b>Team Members:</b>
 1)	Shruthakeerthy.S
 2)	 Nihil
 3)	Madhumita
