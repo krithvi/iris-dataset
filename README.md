@@ -1,5 +1,6 @@
 KNOW I PROJECT:
-IRIS DATASET:<br>
+IRIS DATASET:<img src='https://img.icons8.com/plasticine/2x/flower-doodle.png' width="50" height="60" ></img><br>
+
 Team name:  Incredibles<br>
 Team Members:
 1)	Shruthakeerthy.S
